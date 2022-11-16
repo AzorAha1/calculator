@@ -11,7 +11,7 @@ class Startpage extends StatefulWidget {
 }
 
 class _StartpageState extends State<Startpage> {
-  String newinput = '';
+  String newinput = '|';
   dynamic result;
 
   @override
