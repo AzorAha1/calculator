@@ -63,7 +63,7 @@ class _StartpageState extends State<Startpage> {
                       ),
                       buttons(
                         onpressed: () {
-                          print('divide');
+                          print('divides');
                           setState(() {
                            
                           });
