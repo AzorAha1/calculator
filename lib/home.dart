@@ -57,7 +57,7 @@ class _StartpageState extends State<Startpage> {
                           });
                         },
                         child: Text(
-                          'clear',
+                          'AC',
                           style: ktextstyle.copyWith(color: Colors.amber),
                         ),
                       ),
