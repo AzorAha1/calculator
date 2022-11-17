@@ -64,9 +64,7 @@ class _StartpageState extends State<Startpage> {
                       buttons(
                         onpressed: () {
                           print('divide');
-                          setState(() {
-                           
-                          });
+                          setState(() {});
                         },
                         child: Icon(
                           FontAwesomeIcons.divide,
