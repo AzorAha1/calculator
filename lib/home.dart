@@ -12,7 +12,7 @@ class Startpage extends StatefulWidget {
 
 class _StartpageState extends State<Startpage> {
   String newinput = '|';
-  dynamic result;
+  var result;
 
   @override
   Widget build(BuildContext context) {
